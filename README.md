@@ -1,4 +1,4 @@
-# Hi, I'm Jashanpreet 👋
+# Hi, I'm Jashanpreet kaur 👋
 
 ### Junior Python Backend Developer
 
